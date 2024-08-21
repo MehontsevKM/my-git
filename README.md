@@ -7,3 +7,8 @@ https://github.com/Hexlet/ru-instructions/blob/main/git.md
 
 Нужно найти хороший курс по Vim
 
+
+
+Новый коммит
+
+
